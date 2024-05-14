@@ -1,9 +1,12 @@
-/*
- * Final_Project.c
- *
- * Created: 5/10/2024 5:37:15 PM
- * Author : samue
- */ 
+//*********************************************************************
+// Universidad del Valle de Guatemala
+// IE2023: Programación de Microcontroladores
+// Autor: Alan Gomez
+// Proyecto: Final_Project.c
+// Descripción: Proyecto Final de Programación de Microcontroladores con lenguaje C.
+// Hardware: ATmega328p
+// Created: 4/29/2024 7:37:15 PM
+//*********************************************************************
 
 #include <avr/io.h>
 
